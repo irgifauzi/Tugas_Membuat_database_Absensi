@@ -1,0 +1,108 @@
+body {
+    background-color: aquamarine;
+    position: relative;
+    background-image: url();
+
+}
+.navbar {
+
+    width: 10%;
+    margin-left: -20px;
+    margin-top: -0px;
+    padding-bottom: 500px;
+    position: fixed;
+    display: inline-block;
+    z-index: 1;
+    background-color: beige;
+    
+       
+
+
+
+}
+
+.navbar>ul {
+
+    line-height: 100px;
+    padding: 20px 30px;
+}
+
+.navbar>ul>li {
+
+    text-decoration: none;
+    overflow-x: hidden;
+    font-size: 23px;
+    color: black;
+    display: inline-block;
+
+}
+
+.navbar>ul>li:hover {
+    color: darkorange;
+}
+
+
+.logo h2 {
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    background-color: rgb(207, 68, 4);
+    
+}
+
+.logo h3 {
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+
+
+}
+
+nav ul li {
+    margin: 100px;
+    /*menghilangkan margin atas dan bawah*/
+
+}
+
+table {
+    width: 90%;
+    border: 1px solid;
+    border-collapse: collapse;
+    margin-left: auto;
+}
+
+th {
+    border: 1px solid;
+}
+
+table tr td {
+    border: 1px solid;
+}
+
+
+th {
+    background-color: blue;
+}
+
+.menu {
+    text-align: left;
+}
+
+nav ul li a {
+    color: magenta;
+    font-weight: bold;
+    text-align: center;
+    padding: 0px 16px 0px 16px;
+    text-decoration: none;
+}
+
+p.kanan{
+    margin-left: 200px;
+}
+.logo2 {
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    height: 50px;
+}
+
